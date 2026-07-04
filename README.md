@@ -82,7 +82,6 @@ DVWA-Web-Security-Assessment/
 ├── Presentation/
 ├── Documentation/
 ├── Attack-Reports/
-├── Images/
 └── README.md
 ```
 
