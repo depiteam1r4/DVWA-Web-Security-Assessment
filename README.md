@@ -146,7 +146,3 @@ All demonstrations and security testing were performed in an isolated laboratory
 ## 🙏 Acknowledgments
 
 Special thanks to the **Digital Egypt Pioneers Initiative (DEPI)** for providing the training environment and learning opportunity.
-
----
-
-## ⭐ If you found this repository useful, consider giving it a star!
