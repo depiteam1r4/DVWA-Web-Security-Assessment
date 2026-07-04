@@ -40,17 +40,37 @@ The project demonstrates how common web application vulnerabilities can be ident
 
 ## 🔥 Vulnerabilities Covered
 
-| Vulnerability | Description |
-|--------------|-------------|
-| Brute Force | Password guessing attacks using manual and automated techniques |
-| SQL Injection | Manipulating SQL queries to access unauthorized data |
-| Blind SQL Injection | Extracting information without direct database output |
-| Reflected XSS | Executing malicious scripts reflected by the server |
-| Stored XSS | Persistently injecting malicious JavaScript into the application |
-| DOM XSS | Client-side script injection through DOM manipulation |
-| Command Injection | Executing operating system commands through user input |
-| CSRF | Performing unauthorized actions on behalf of authenticated users |
-| CSP Bypass | Demonstrating techniques to bypass Content Security Policy |
+The project includes practical demonstrations and technical analysis of the following web application vulnerabilities:
+
+### Authentication & Access Control
+- ✅ Brute Force
+- ✅ Weak Session IDs
+- ✅ Authorisation Bypass
+- ✅ Insecure CAPTCHA
+
+### Injection Attacks
+- ✅ SQL Injection
+- ✅ Blind SQL Injection
+- ✅ Command Injection
+
+### Cross-Site Scripting (XSS)
+- ✅ Reflected XSS
+- ✅ Stored XSS
+- ✅ DOM-based XSS
+
+### File & Resource Security
+- ✅ File Upload
+- ✅ File Inclusion
+
+### Client-Side & Browser Security
+- ✅ Cross-Site Request Forgery (CSRF)
+- ✅ Content Security Policy (CSP) Bypass
+- ✅ JavaScript Security
+
+### Web & API Security
+- ✅ Open HTTP Redirect
+- ✅ Cryptography
+- ✅ API Security
 
 ---
 
